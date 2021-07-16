@@ -1,5 +1,8 @@
 # Sentiment-Analysis-on-Amazon-Products
 
+![amazon](https://user-images.githubusercontent.com/85448559/125903385-3c8c0a0a-b015-4a59-9298-b8b58f51594f.gif)
+
+
 ## Introduction
 
 Sentiment analysis is the process of detecting positive or negative sentiment in text. It’s often used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers.
