@@ -1,7 +1,5 @@
 # Sentiment-Analysis-on-Amazon-Products
 
-![amazon](https://user-images.githubusercontent.com/85448559/125903385-3c8c0a0a-b015-4a59-9298-b8b58f51594f.gif)
-
 
 ## Introduction
 
