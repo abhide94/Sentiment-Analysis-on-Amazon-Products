@@ -6,5 +6,6 @@ Sentiment analysis is the process of computationally identifying and categorizin
 
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib and Scikit-Learn.
 
-![1619283006957](https://user-images.githubusercontent.com/85448559/125895516-f5c0438f-ac2a-4be4-b19a-7fa9b7d0e4e8.jpg)
+[Objectiv.docx](https://github.com/abhide94/Sentiment-Analysis-on-Amazon-Products/files/6828007/Objectiv.docx)
+
 
