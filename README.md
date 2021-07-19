@@ -17,8 +17,8 @@ This project was completed using Jupyter Notebook and Python with Pandas, NumPy,
  Project Basis: Internship with Technocolabs
  
 ## Data Preprocessing
-Data preprocessing is a data mining technique that is used to transform raw data into a useful and efficient format.
 
+* Data preprocessing is a data mining technique that is used to transform raw data into a useful and efficient format.
 * Examined transaction data looking for inconsistencies, missing data and outliers
 * Cleaned the data using ordinal mapping and filling of missing values and outliers with statistical best fit values
 
